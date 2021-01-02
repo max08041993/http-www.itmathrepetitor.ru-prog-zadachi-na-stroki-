@@ -26,5 +26,4 @@ public class eighteenTask {
         }
         System.out.println(string);
     }
-
 }
