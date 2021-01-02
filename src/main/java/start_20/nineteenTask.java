@@ -1,3 +1,5 @@
+package start_20;
+
 import java.util.Scanner;
 
 public class nineteenTask {
