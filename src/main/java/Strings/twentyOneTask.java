@@ -1,3 +1,5 @@
+package Strings;
+
 import org.apache.commons.lang3.ArrayUtils;
 
 import java.io.IOException;

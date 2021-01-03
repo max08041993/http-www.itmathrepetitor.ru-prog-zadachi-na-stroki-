@@ -1,4 +1,4 @@
-package start_20;
+package Strings.start_20;
 
 import org.apache.commons.lang3.ArrayUtils;
 
