@@ -1,4 +1,4 @@
-package Strings;
+package Strings.start_20;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class twenty_nineTask {
+public class twenty_eightTask {
     public static void main(String[] args) throws IOException {
         System.out.println("28. Дан массив строк. Переставить строки в зависимости от количества цифр в строке.");
         String inputFileName = "text.txt";
